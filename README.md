@@ -1,0 +1,1 @@
+Bir fabrikadaki banttan geçen yüksek sıcaklıktaki demir kütüklerine ait termal kamera görüntüleri verilmiştir. MATLAB ortamında, anlık görüntü üzerinden bantta kaç adet demir kütük olduğunu tespit eden bir uygulama geliştiriniz.
